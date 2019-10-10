@@ -8,6 +8,4 @@ draft: false
 wi-fi
 ---
 
-A rede **eduroam** funciona com as suas credenciais da universidade, se você veio de uma universidade que usa eduroam.
 
-Se não, a rede é a **SBRC2018**. A senha é **sbrc@2018**.

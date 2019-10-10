@@ -10,7 +10,7 @@ Você precisará trazer o que for usar. Sugerimos que você traga um laptop. Tem
 
 ## O espaço
 
-Temos uma nave incrível onde hackearemos juntos esse fim de semana. Mas como somos cerca de 250 pessoas dividindo um espaço, convém combinarmos algumas regras:
+Temos uma nave incrível onde hackearemos juntos esse fim de semana. Mas como somos cerca de 50 pessoas dividindo um espaço, convém combinarmos algumas regras:
 
 Não deixe bagunça na sua mesa, cadeira, ou por onde passar. Duzentas pessoas acumulando bagunça é muita bagunça.
 

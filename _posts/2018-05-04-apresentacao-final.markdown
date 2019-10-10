@@ -4,7 +4,7 @@ title: Apresentação do projeto
 category: posts
 ---
 
-No domingo, a partir das 08 horas as equipes apresentarão os projetos
+No domingo as equipes apresentarão os projetos
 ---
 
 **Como funcionará?**: Cada equipe terá 7 minutos para apresentar seus resultados. Parece pouco mas dá para falar bastante. *Slides são proibidos*. Mostre a aplicação, pode mostrar desenhos, fotos, o que quiser. Só não vale slide com texto.

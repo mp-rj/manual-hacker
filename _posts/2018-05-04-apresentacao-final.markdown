@@ -7,7 +7,7 @@ category: posts
 No domingo as equipes apresentarão os projetos
 ---
 
-## Você no palco
+## Você no palco (brilhando)
 
 No domingo às 8 horas iniciamos as apresentações e, na sequência, a votação dos projetos destaque do Hackfest Rio 2019.
 

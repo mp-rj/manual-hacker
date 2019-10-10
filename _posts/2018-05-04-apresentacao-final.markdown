@@ -3,8 +3,6 @@ layout: post
 title: Apresentação do projeto
 category: posts
 ---
-
-No domingo as equipes apresentarão os projetos
 ---
 
 ## Você no palco (brilhando)
